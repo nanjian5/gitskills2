@@ -5,4 +5,4 @@ Creating a new branch is quick and simple.
 test dev
 test feature
 modify feature
-feature2
+feature2.1
